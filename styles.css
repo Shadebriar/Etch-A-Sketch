@@ -7,7 +7,6 @@ flex-wrap: wrap;
 
 .square {
 background: pink;
-border: 1px solid magenta;
 box-sizing: border-box;
 height: 6.25%;
 width: 6.25%;
